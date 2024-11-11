@@ -16,7 +16,7 @@ I'm a passionate **Software Engineering** student with a specialization in **Inf
 
 ## 💼 Featured Projects
 
-### [Meead - Event Finder]([https://github.com/literally/meaad](https://github.com/literallyazer/meaad/))
+### [Meead - Event Finder]([https://github.com/literally/meaad])
 An advanced event finder app using the **Ticketmaster API**. Meead’s goal is to provide an interactive and aesthetic experience for users looking for local events. This project highlights my skills in:
   - **Frontend development** with a focus on UI/UX design
   - **Backend integration** with REST APIs
