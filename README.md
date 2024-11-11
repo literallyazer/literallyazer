@@ -16,7 +16,7 @@ I'm a passionate **Software Engineering** student with a specialization in **Inf
 
 ## 💼 Featured Projects
 
-### [Meead - Event Finder]([https://github.com/literally/meaad])
+### [Meead - Event Finder] ([https://github.com/literallyazer/meaad])
 An advanced event finder app using the **Ticketmaster API**. Meead’s goal is to provide an interactive and aesthetic experience for users looking for local events. This project highlights my skills in:
   - **Frontend development** with a focus on UI/UX design
   - **Backend integration** with REST APIs
@@ -25,7 +25,7 @@ An advanced event finder app using the **Ticketmaster API**. Meead’s goal is t
 ### Moodify (in progress)
 Moodify is a web app that dynamically generates music playlists based on a user’s selected mood. By blending smooth animations, personalized UI elements, and powerful API integrations, the app provides a seamless experience where users can choose a mood and instantly access music that aligns with it.
 
-## Interactive portfolio (https://github.com/literally/porfolio)
+## Interactive portfolio (https://github.com/literallyazer/porfolio)
 An interactive portfolio to showcase my wok using advanced and complex JS libraries like Particles.JS and Three.js.
 
 ---
